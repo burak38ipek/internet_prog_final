@@ -1,0 +1,77 @@
+<h3>Robotlar Sanat Yapabilir Mi? Yaratıcılık ve Teknolojinin Buluşması</h3>
+    
+        <h3>Giriş</h3>
+        <p>Sanat, insanlığın duygularını, düşüncelerini ve hayal gücünü ifade etmek için çağlar boyunca kullanılan bir araç
+            olmuştur. Ancak teknolojinin ilerlemesiyle birlikte, robotlar da sanatın bir parçası haline gelmeye başlamıştır.
+            Robotlar, karmaşık algoritmalar ve yapay zeka kullanarak çeşitli sanat formlarında etkileyici eserler
+            yaratabilirler. Bu makalede, robotların sanat yapma potansiyelini, bu alandaki tartışmaları ve gelecekteki olası
+            etkilerini keşfedeceğiz.</p>
+    
+        <h3>Robotlar ve Sanatın Buluşması</h3>
+        <p>Robotların sanat yapma yeteneği, son yıllarda teknolojideki büyük ilerlemelerle birlikte önemli bir gelişme
+            yaşamıştır. İlk olarak, robotlar basit çizimler yapabilen mekanik cihazlar olarak ortaya çıktı. Ancak günümüzde,
+            robotlar karmaşık sanat eserleri üretebilirler. Örneğin, robotlar resim yapabilir, müzik besteleyebilir, heykel
+            yapabilir ve hatta performans sanatları sergileyebilirler. Bu, robotların sadece bir mühendislik aracı olmaktan
+            çıkıp, yaratıcı bir süreçte aktif bir rol oynayabilecekleri anlamına gelmektedir.</p>
+    
+        <h3>Robot Sanatın Tartışmaları</h3>
+        <p>Robotların sanat yapma yeteneği, bir dizi etik, felsefi ve kültürel tartışmayı beraberinde getirir. İşte bu
+            tartışmalardan bazıları:</p>
+        <ol style="color: black;font-size: x-large;">
+            <li>Yaratıcılık ve Öznel Değer</li>
+            <li>Otantiklik ve Orijinallik</li>
+            <li>Sanatçı Kimliği</li>
+            <li>Teknolojik Eşitsizlik</li>
+        </ol>
+    
+        <h3>Gelecek Perspektifi</h3>
+        <p>Robotların sanat yapma yeteneği, sanat dünyasında yeni bir çağın başlangıcını işaret ediyor olabilir. Gelecekte,
+            robotlar ve insanlar birlikte çalışarak benzersiz ve etkileyici sanat eserleri üretebilirler. Bu durum, sanatın
+            evrimini ve çeşitliliğini artırabilir ve insanlığın sanat anlayışını genişletebilir.</p>
+    
+        <h3>Sonuç</h3>
+        <p>Sonuç olarak, robotların sanat yapma yeteneği, sanat dünyasında heyecan verici bir gelişme olarak kabul
+            edilmelidir. Robotlar, sanatın sınırlarını genişletebilir ve insanlığın sanat anlayışını zenginleştirebilir.
+            Ancak bu konudaki tartışmalar devam edecektir ve etik ve felsefi soruları ele almak önemlidir. Gelecekte,
+            robotlarla insanların birlikte çalışması, sanat dünyasını daha da ilginç ve çeşitli hale getirebilir.</p>
+    </div>
+    
+    <div id="oyun-makale-1">
+        <h3>Souls Oyun Serisi: Zorluk, Keşif ve Derin Hikayelerin Buluştuğu Efsanevi Seri</h3>
+    
+        <h3>Giriş</h3>
+        <p>"Souls" oyun serisi, video oyunları dünyasında eşsiz bir yere sahip olan ve oyuncuları derin bir deneyime çeken
+            bir seri olarak kabul edilir. FromSoftware tarafından geliştirilen bu oyunlar, özellikle zorluk seviyeleri,
+            atmosferik dünya tasarımları, gizemli hikayeleri ve oyunculara sunduğu keşif deneyimiyle tanınır. Bu makalede,
+            Souls oyun serisinin temel özelliklerini, her bir oyununun benzersizliğini ve serinin video oyun endüstrisine
+            olan etkilerini detaylı bir şekilde ele alacağız.</p>
+    
+        <h3>1. Demon's Souls: Serinin İlk Adımı</h3>
+        <p>"Souls" oyun serisinin başlangıcı, 2009 yılında PlayStation 3 için yayınlanan "Demon's Souls" ile olmuştur. Bu
+            oyun, oyuncuları acımasız bir dünyada zorlu düşmanlarla karşı karşıya getirirken aynı zamanda derin bir keşif
+            deneyimi sunuyordu. Zorluk seviyesi ve keşif odaklı oyun tasarımı, "Souls" serisinin imzası haline gelmiştir.
+        </p>
+    
+        <h3>2. Dark Souls: Zorluk ve Atmosfer</h3>
+        <p>"Demon's Souls"un başarısının ardından, 2011 yılında "Dark Souls" piyasaya sürüldü ve seriye geniş bir hayran
+            kitlesi kazandırdı. Bu oyun, oyunculara acımasız zorluk seviyeleriyle dolu bir açık dünya sunarken, atmosferik
+            dünya tasarımı ve gizemli hikayesiyle de dikkat çekti. "Dark Souls", zorlu mücadeleleri ve ölüm sonrası tekrar
+            deneme mekanikleriyle tanınır.</p>
+    
+        <h3>3. Dark Souls II: Genişleme ve Derinlik</h3>
+        <p>"Dark Souls II", 2014 yılında piyasaya sürüldü ve serinin temellerini genişletti. Daha büyük bir dünya haritası,
+            daha fazla silah ve zırh çeşidi, geliştirilmiş çok oyunculu modlar ve daha derin bir hikaye sunarak seriyi yeni
+            bir seviyeye taşıdı. Ancak, bazı eleştirmenler, serinin önceki oyunlarına kıyasla "Dark Souls II"nin hikayesinin
+            ve atmosferinin biraz zayıf olduğunu düşünmüşlerdir.</p>
+    
+        <h3>4. Bloodborne: Serinin Farklı Bir Yönü</h3>
+        <p>"Bloodborne", FromSoftware'in Souls formülünü alıp farklı bir evrende denemesiyle ortaya çıkan bir başka
+            başyapıttır. Victorian Gotik tarzıyla tasarlanmış olan bu oyun, daha hızlı ve agresif bir oynanış deneyimi
+            sunar. Ayrıca, gizemli bir hikaye, karanlık atmosfer ve zorlu boss savaşlarıyla da dikkat çeker. "Bloodborne",
+            Souls hayranları arasında da büyük bir beğeni toplamıştır.</p>
+    
+        <h3>5. Dark Souls III: Serinin Zirvesi</h3>
+        <p>"Dark Souls III", serinin son ana oyunu olarak 2016 yılında piyasaya sürüldü ve serinin en iyi oyunlarından biri
+            olarak kabul edilir. "Dark Souls III", serinin önceki oyunlarının en iyi özelliklerini bir araya getirirken,
+            görsel açıdan da muhteşem bir deneyim sunar.</p>
+    

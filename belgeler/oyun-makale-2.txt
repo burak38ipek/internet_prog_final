@@ -1,0 +1,36 @@
+<h3>God of War: Mitoloji, Macera ve Epik Savaşların Efsanevi Serisi</h3>
+    
+        <h3>Giriş</h3>
+        <p>"God of War" oyun serisi, video oyunları dünyasında eşsiz bir yere sahip olan ve oyuncuları antik mitolojilerin
+            büyülü dünyasına götüren bir seridir. Santa Monica Studio tarafından geliştirilen bu oyunlar, sürükleyici
+            hikayeleri, muhteşem görsel tasarımları ve heyecan verici savaşlarıyla tanınır. Bu makalede, God of War oyun
+            serisinin temel özelliklerini, her bir oyununun benzersizliğini ve serinin video oyun endüstrisine olan
+            etkilerini detaylı bir şekilde ele alacağız.</p>
+    
+        <h3>1. God of War (2005): Efsane Başlıyor</h3>
+        <p>"God of War" oyun serisinin başlangıcı, 2005 yılında PlayStation 2 için yayınlanan orijinal oyundur. Bu oyun,
+            antik Yunan mitolojisinden ilham alır ve oyuncuları vahşi ve acımasız bir savaşın içine çeker. Ana karakterimiz
+            olan Kratos, Yunan tanrılarına karşı intikam arayışında olan bir savaşçıdır. Oyun, muhteşem dövüş sahneleri,
+            epik boss savaşları ve derin bir hikaye sunar.</p>
+    
+        <h3>2. God of War II (2007): Efsane Devam Ediyor</h3>
+        <p>"God of War II", orijinal oyunun başarısının ardından 2007 yılında PlayStation 2 için piyasaya sürüldü. Bu oyun,
+            Kratos'un intikam yolculuğunu devam ettirirken daha büyük ve daha epik bir ölçekte oynanır. Antik Yunan
+            mitolojisinin zenginliklerinden yararlanan oyun, oyuncuları tanrılar ve canavarlarla dolu bir dünyaya götürür.
+        </p>
+    
+        <h3>3. God of War III (2010): Destanın Sonu</h3>
+        <p>"God of War III", serinin PlayStation 3'e geçiş yapmasıyla 2010 yılında piyasaya sürüldü. Bu oyun, Kratos'un Zeus
+            ve Olimpos Tanrıları ile olan son mücadelesini konu alır. Görsel açıdan etkileyici olan bu oyun, devasa ölçekli
+            savaş sahneleri ve yıkıcı güçlere sahip tanrısal düşmanlar sunar.</p>
+    
+        <h3>4. God of War (2018): Yeniden Doğuş</h3>
+        <p>2018 yılında yayınlanan "God of War", serinin yeniden başlatıldığı ve Norse mitolojisine odaklandığı bir oyundur.
+            Bu kez, Kratos ve oğlu Atreus, Midgard'a yolculuk yapar ve Nordik tanrılarla karşılaşır. Oyun, serinin önceki
+            oyunlarından farklı bir oynanış tarzı sunar ve daha derin bir hikaye anlatımıyla oyuncuları etkiler.</p>
+    
+        <h3>Sonuç: God of War Serisinin Etkisi</h3>
+        <p>"God of War" oyun serisi, video oyun endüstrisine eşsiz bir deneyim sunarak önemli bir etki yapmıştır. Savaş,
+            macera ve mitolojiyi bir araya getiren bu oyunlar, bir neslin favorisi haline gelmiştir. Ayrıca, serinin
+            başarısı, video oyunların da birer sanat eseri olarak kabul edilmesine katkıda bulunmuştur. God of War serisi,
+            video oyun tarihinde unutulmaz bir yer edinmiştir.</p>

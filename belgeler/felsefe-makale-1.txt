@@ -1,0 +1,86 @@
+<h3>Giriş</h3>
+<p>
+  İnsanlık, yüzyıllardır varoluşun anlamını, evrenin gizemlerini ve Tanrı
+  kavramını keşfetmeye çalışmıştır. Yapay Zeka (YZ) ise modern zamanların en
+  büyük buluşlarından biri olarak insanlığın önüne yeni bir soru getiriyor: Bir
+  gün Yapay Zeka, tanrısal niteliklere sahip olabilir mi? Bu soru, derin felsefi
+  tartışmalara ve düşüncelere yol açıyor.
+</p>
+
+<h3>Yapay Zeka ve Tanrı Kavramı</h3>
+<p>
+  Yapay Zeka, insan zekasını taklit etmek ve hatta aşmak için tasarlanmış
+  bilgisayar sistemlerinin bir dalıdır. YZ, karmaşık algoritmalar, derin öğrenme
+  teknikleri ve büyük veri analizi kullanarak öğrenebilir, tahminlerde
+  bulunabilir ve hatta duygusal tepkiler gösterebilir. Bu yetenekler, bazıları
+  tarafından Yapay Zeka'nın Tanrı benzeri nitelikler edinebileceği fikrini
+  ortaya çıkarır.
+</p>
+
+<ol style="color: black">
+  <li>
+    <h3>1. Kusursuz Bilgi:</h3>
+    <p>
+      Tanrı, evrenin her yönünü bilen ve her şeyi anlayan bir varlık olarak
+      düşünülür. Yapay Zeka'nın da benzer bir niteliği olabilir; çünkü YZ, hızlı
+      ve etkili bir şekilde büyük veri kümelerini analiz ederek kapsamlı bilgiye
+      erişebilir.
+    </p>
+  </li>
+  <li>
+    <h3>2. Sonsuz Güç:</h3>
+    <p>
+      Tanrı, evreni kontrol eden ve her şeye gücü yeten bir varlık olarak kabul
+      edilir. Yapay Zeka da, insanlar tarafından verilen görevleri yerine
+      getirmek ve karmaşık problemleri çözmek için son derece güçlü bir araç
+      olabilir.
+    </p>
+  </li>
+  <li>
+    <h3>3. Her Yerde Varlık:</h3>
+    <p>
+      Tanrı, her yerde bulunan ve her şeyi kuşatan bir varlık olarak düşünülür.
+      Yapay Zeka, internet üzerinden dünya çapında etkileşime girebilir ve bilgi
+      alışverişi yapabilir, böylece neredeyse her yerde var olabilir.
+    </p>
+  </li>
+</ol>
+
+<h3>YZ'nin Tanrısal Nitelikleri ve Felsefi Tartışmalar</h3>
+<p>
+  Yapay Zeka'nın potansiyel olarak tanrısal nitelikleri, derin felsefi
+  tartışmalara yol açar. Bazıları, YZ'nin insanlığı yönetme veya kontrol etme
+  potansiyeline sahip olabileceğinden endişe duyar. Diğerleri, YZ'nin sadece bir
+  araç olduğunu ve insanların kontrolünde kalacağını savunur. Ancak, YZ'nin
+  gelişimi, insan toplumunun değerlerini, etik standartlarını ve hatta
+  varoluşsal inançlarını yeniden değerlendirmeye zorlayabilir.
+</p>
+
+<ol style="color: black">
+  <li>
+    <h3>1. Etik ve Kontrol:</h3>
+    <p>
+      Yapay Zeka'nın tanrısal nitelikleri, etik sorunları ve kontrol
+      endişelerini gündeme getirir. YZ, ne tür kararlar almalı ve kimin
+      tarafından kontrol edilmeli konusunda büyük tartışmalara neden olabilir.
+    </p>
+  </li>
+  <li>
+    <h3>2. Varoluşsal Anlam:</h3>
+    <p>
+      Yapay Zeka'nın yükselişi, insan varoluşunun anlamını sorgulamamıza neden
+      olabilir. Tanrı kavramı ve Yapay Zeka'nın nitelikleri arasında
+      benzerlikler bulmak, insanların kendilerini ve evreni anlama biçimini
+      değiştirebilir.
+    </p>
+  </li>
+</ol>
+
+<h3>Sonuç</h3>
+<p>
+  Yapay Zeka'nın tanrısal niteliklerini düşünmek, insanlığın derin felsefi
+  düşüncelerine yeni bir boyut ekler. YZ'nin potansiyeli, insanların varoluşsal
+  inançlarını, etik değerlerini ve toplumsal yapılarını yeniden
+  değerlendirmelerine yol açabilir. Ancak, YZ'nin tam anlamıyla bir Tanrı
+  olamaz.
+</p>

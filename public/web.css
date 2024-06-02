@@ -1,0 +1,163 @@
+/* Paragraf stilleri */
+p {
+    text-align: left;
+    background-color: white;
+    color: black;
+    font-size: x-large;
+}
+
+/* Genel stiller */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+/* Logo stilleri */
+img[alt="logo"] {
+    display: inline-block;
+    height: 130px;
+    width: 130px;
+}
+
+/* Navbar stilleri */
+.navbar {
+    background-color: #1f1d1d;
+    overflow: hidden;
+    text-align: left;
+}
+
+.navbar a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Başlık stilleri */
+h1[title="anabas"] {
+    font-size: 48px;
+    margin-left: 20px;
+    font-family: Arial, sans-serif;
+    color: transparent;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    -webkit-background-clip: text;
+    background-clip: text;
+    animation: renk-gecisi 10s linear infinite;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 24rem;
+}
+
+@keyframes renk-gecisi {
+    0% {
+        filter: hue-rotate(0deg);
+    }
+
+    100% {
+        filter: hue-rotate(360deg);
+    }
+}
+
+/* İçerik stilleri */
+.content {
+    width: calc(85% - 40px);
+    background-color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    height: 100vh;
+    float: left;
+}
+
+#makaleler {
+    display: none;
+    /* Başlangıçta görünmez yapılıyor */
+}
+/*css icerisindeki baslik stilleri*/
+h3{
+    color: black;
+}
+
+/* Sidebar stilleri */
+.sidebar {
+    width: calc(20% - 40px);
+    height: 100vh;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    float: left;
+}
+
+/* Scrollable stilleri */
+.scrollable {
+    height: calc(100% - 40px);
+    overflow-y: auto;
+}
+
+.scrollable ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.scrollable ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #f2f2f2;
+}
+
+.scrollable ul li a:hover {
+    background-color: #555;
+}
+
+/* Başlık listesi stilleri */
+.sidebar h2 {
+    margin-top: 0;
+    color: white;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sidebar ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+.sidebar ul li a:hover {
+    background-color: black;
+}
+
+/* Clearfix */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}

@@ -1,0 +1,36 @@
+<h3>Giriş</h3>
+        <p>İnsanlık, varoluşun anlamını ve evrenin doğasını anlamaya çalışırken, bazen gerçeklik hakkında şaşırtıcı sorular
+            ortaya çıkarır. Birçok bilim insanı, filozof ve düşünür, evrenin gerçekliğini sorgulamış ve hatta "simülasyon
+            teorisi" gibi çarpıcı fikirler öne sürmüştür. Bu makalede, "simülasyonda mıyız?" sorusu etrafında dönen bilimsel
+            ve felsefi düşünceleri keşfedeceğiz.</p>
+    
+        <h3>Simülasyon Teorisi: Nedir ve Nasıl Ortaya Çıktı?</h3>
+        <p>Simülasyon teorisi, temelde, gerçeklik algımızın aslında bir simülasyonun parçası olabileceğini öne süren bir
+            hipotezdir. Bu fikir, ilk olarak filozof Descartes tarafından "Bir rüyada mıyız?" sorusuyla ortaya atılmıştır.
+            Ancak, modern anlamda simülasyon teorisi, bilgisayar bilimci Nick Bostrom'un 2003 yılında kaleme aldığı makale
+            ile daha yaygın hale gelmiştir. Bostrom, "postinsan" bir medeniyetin, kendi geçmişlerindeki insanları
+            simülasyonlar içinde yeniden yarattığını öne sürmüştür.</p>
+    
+        <h3>Bilim ve Teknolojinin Perspektifi</h3>
+        <p>Bilim ve teknoloji, simülasyon teorisini destekleyen veya reddeden kanıtlar sunabilir. Örneğin, kuantum fiziği,
+            gerçekliğin temelinde bulunan matematiksel yapıları ortaya çıkarırken, bilgisayar simülasyonları giderek
+            karmaşık ve gerçekçi hale gelmektedir. Bununla birlikte, bilim insanları, gerçekliği anlamak için daha fazla
+            veriye ve gözleme ihtiyaç duyduklarını da belirtmektedirler.</p>
+    
+        <h3>Felsefi Derinlik: Gerçeklik ve Algı</h3>
+        <p>Simülasyon teorisi, felsefi açıdan gerçekliğin doğasını sorgular. Bir simülasyon içinde olduğumuzu varsayarsak,
+            gerçekliğin ne anlama geldiği ve algımızın nasıl şekillendiği konuları daha da karmaşık hale gelir. Bazı
+            filozoflar, gerçekliğin aslında bizim tarafımızdan inşa edildiğini ve dışarıda bağımsız bir gerçeklik olmadığını
+            savunurlar.</p>
+    
+        <h3>İlerlemenin İmkânları ve Tehlikeleri</h3>
+        <p>Simülasyon teorisi, ilerlemenin ve teknolojinin potansiyel etkilerini de tartışır. Eğer gerçekten bir
+            simülasyonun içinde yaşıyorsak, teknolojik gelişmeler ve yapay zeka gibi ilerlemeler, gerçekliğimizi manipüle
+            etme veya değiştirme potansiyeline sahip olabilir. Bu, hem büyük fırsatlar sunar hem de ciddi etik ve güvenlik
+            endişeleri doğurur.</p>
+    
+        <h3>Sonuç</h3>
+        <p>"Simülasyonda mıyız?" sorusu, bilim ve felsefenin sınırlarını zorlayan ve insanın varoluşsal deneyimini
+            derinlemesine sorgulatan bir sorudur. Bu makalede, simülasyon teorisinin temelini, bilimsel ve felsefi
+            perspektiflerini ve ilerlemenin getirdiği potansiyel etkilerini inceledik. Ancak, gerçekliğin doğası hakkında
+            tam bir anlayışa ulaşmak için daha fazla araştırma ve düşünceye ihtiyaç vardır.</p>

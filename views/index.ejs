@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GAMEHOPATH</title>
+    <link rel="stylesheet" href="/public/web.css">
+    <script src="/public/web.js" defer></script>
+</head>
+
+<body>
+    <!-- <div style="display: inline-block;">
+    </div> -->
+    <div class="container">
+        <img src="/public/images/alt_logo.png" alt="logo">
+        <div class="title">
+            <h1 title="anabas">GAMEHOPATH</h1>
+        </div>
+    </div>
+    <div class="navbar">
+        <a href="#teknoloji">Teknoloji</a>
+        <a href="#oyun">Oyun</a>
+        <a href="#yazilim">Yazılım</a>
+        <a href="#felsefe">Felsefe</a>
+        <a href="#download">Download</a>
+    </div>
+
+    <div class="clearfix">
+        <div class="sidebar">
+            <h2>Makaleler</h2>
+            <div class="scrollable">
+                <ul id="sidebar-list">
+                    <!-- Bu kısma sonradan fonksiyon yazılacak -->
+                </ul>
+            </div>
+        </div>
+
+        <div class="content" id="content">
+            <!-- Paragraflar buraya eklenecek -->
+        </div>
+    </div>
+
+    <!-- Teknoloji Makaleleri -->
+    <div id="teknoloji-makaleler" style="display: none;">
+        <ul>
+            <li><a href="#teknoloji-makale-1">Teknolojik Patlama</a></li>
+            <li><a href="#teknoloji-makale-2">Robotik Kodlama</a></li>
+            <li><a href="#teknoloji-makale-3">Robotlar Sanat Yapabilir mi?</a></li>
+        </ul>
+    </div>
+
+    <!-- Oyun Makaleleri -->
+    <div id="oyun-makaleler" style="display: none;">
+        <ul>
+            <li><a href="#oyun-makale-1">Souls</a></li>
+            <li><a href="#oyun-makale-2">GoW</a></li>
+        </ul>
+    </div>
+
+    <!-- Yazılım Makaleleri -->
+    <div id="yazilim-makaleler" style="display: none;">
+        <ul>
+            <li><a href="#yazilim-makale-1">C++ Zor mu?</a></li>
+            <li><a href="#yazilim-makale-2">Web İçin Gerekli Yazılım Dilleri</a></li>
+        </ul>
+    </div>
+
+    <!-- Felsefe Makaleleri -->
+    <div id="felsefe-makaleler" style="display: none;">
+        <ul>
+            <li><a href="#felsefe-makale-1">AI Tanrı Olabilir mi?</a></li>
+            <li><a href="#felsefe-makale-2">Simülasyonda mıyız?</a></li>
+        </ul>
+    </div>
+
+    <!-- İndirme Makaleleri -->
+    <div id="download-makaleler" style="display: none;">
+        <ul>
+            <li><a href="#download-makale-1">VS Code İndir</a></li>
+            <li><a href="#download-makale-2">Dev-C++ İndir</a></li>
+        </ul>
+    </div>
+
+    <!-- Paragraflar -->
+    <div id="makaleler" style="display: none;">
+        <!-- Makalelerin içeriği buraya gelecek -->
+        <% for (var i = 0; i < makaleler.length; i++) { %>
+            <% var makale = makaleler[i]; %>
+            <div id="<%= makale.id %>" style="display: none;">
+            <%- makale.icerik %>
+            </div>
+        <% } %>
+    </div>
+
+
+
+
+</body>
+
+
+</html>

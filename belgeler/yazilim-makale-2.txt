@@ -1,0 +1,51 @@
+<h3>Web Geliştirme İçin Kullanılan Ana Yazılım Dilleri ve Alternatifleri</h3>
+    
+        <h3>Giriş</h3>
+        <p>Web geliştirme, günümüzde dijital dünyanın önemli bir parçası haline gelmiştir ve birçok farklı yazılım dili,
+            çerçeve ve araç, web uygulamalarının ve sitelerin oluşturulmasında kullanılmaktadır. Bu makalede, web geliştirme
+            için kullanılan ana yazılım dillerini ve alternatiflerini detaylı bir şekilde ele alacağız.</p>
+    
+        <ol style="color: black;">
+            <li>
+                <h3>HTML (HyperText Markup Language)</h3>
+                <p>HTML, web sayfalarının yapısal içeriğini tanımlamak için kullanılan standart bir işaretleme dilidir.
+                    HTML, metin, resimler, bağlantılar ve diğer içerik öğelerini organize etmek için kullanılır. Temel web
+                    geliştirme becerileri için önemli bir başlangıç noktasıdır.</p>
+                <p><strong>Alternatifler:</strong> XHTML, HTML5</p>
+            </li>
+            <li>
+                <h3>CSS (Cascading Style Sheets)</h3>
+                <p>CSS, web sayfalarının görünümünü ve düzenini belirlemek için kullanılan bir stil dilidir. Renkler, yazı
+                    tipleri, boyutlar ve düzenler gibi görsel özellikleri kontrol etmek için kullanılır. CSS, HTML ile
+                    birlikte kullanılarak web sitelerinin estetik görünümünü geliştirmek için önemlidir.</p>
+                <p><strong>Alternatifler:</strong> SASS, LESS, Stylus</p>
+            </li>
+            <li>
+                <h3>JavaScript</h3>
+                <p>JavaScript, web tarayıcılarında çalışan bir betik dildir ve web sayfalarına dinamizm ve etkileşim eklemek
+                    için kullanılır. JavaScript, kullanıcı etkileşimleri, animasyonlar, form doğrulama ve AJAX gibi
+                    işlevlerin yanı sıra tam özellikli web uygulamaları geliştirmek için de kullanılabilir.</p>
+                <p><strong>Alternatifler:</strong> TypeScript, CoffeeScript, Dart</p>
+            </li>
+            <li>
+                <h3>PHP (Hypertext Preprocessor)</h3>
+                <p>PHP, sunucu taraflı bir betik dili olup, dinamik web siteleri ve web uygulamaları oluşturmak için
+                    kullanılır. PHP, HTML içinde yerleştirilmiş bir kod olarak kullanılarak sunucu tarafında çalışır ve
+                    veritabanı işlemleri, oturum yönetimi ve kullanıcı kimlik doğrulaması gibi işlevleri gerçekleştirebilir.
+                </p>
+                <p><strong>Alternatifler:</strong> Python (Django), Ruby (Ruby on Rails), Node.js (JavaScript)</p>
+            </li>
+            <li>
+                <h3>SQL (Structured Query Language)</h3>
+                <p>SQL, yapılandırılmış sorgu dili olarak bilinir ve ilişkisel veritabanı yönetim sistemlerinde (RDBMS)
+                    kullanılır. SQL, veritabanı tablolarını oluşturmak, veri eklemek, güncellemek ve sorgulamak için
+                    kullanılır. Web uygulamaları genellikle veri depolamak ve yönetmek için SQL tabanlı veritabanları
+                    kullanır.</p>
+                <p><strong>Alternatifler:</strong> NoSQL (MongoDB, CouchDB), SQLite</p>
+            </li>
+            <li>
+                <h3>Python</h3>
+                <p>Python, genel amaçlı bir programlama dilidir ve web geliştirme alanında da kullanılır. Python, basit ve
+                    okunabilir sözdizimiyle bilinir ve Django ve Flask gibi web çerçeveleri ile birlikte
+            </li>
+        </ol>
